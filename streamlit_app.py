@@ -24,7 +24,7 @@ Miyabi adalah karakter meta utama di versi 1.7. Ia dikenal sebagai DPS dengan da
 )
 
 st.header("2. Astra Yao")
-st.image("https://static.wikia.nocookie.net/zenless-zone-zero/images/6/61/Astro_Yao_Artwork.png", width=300, caption="Astra Yao")
+st.image("IMG_20250527_041708.jpg", width=300, caption="Astra Yao")
 st.markdown(
 """
 **Deskripsi:**
