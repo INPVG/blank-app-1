@@ -3,7 +3,7 @@ import streamlit as st
 st.set_page_config(page_title="Karakter Meta ZZZ 1.7", page_icon="🎮")
 
 st.title("Karakter Meta Versi 1.7 di Game ZZZ")
-st.write("Berikut adalah karakter meta saat ini di versi 1.7 ZZZ (Zenless Zone Zero):")
+st.write("Berikut adalah karakter meta saat ini di versi 1.7 ZZZ (Zenless Zone Zero) menurutku, Senji:")
 
 st.header("1. Miyabi")
 st.image("460e998176c1e048838340c809048c6a_8948282656653229215.jpg",width=300, caption="Miyabi")
